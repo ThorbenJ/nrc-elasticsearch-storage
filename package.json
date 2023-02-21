@@ -1,0 +1,26 @@
+{
+  "name": "nrc-elasticsearch-storage",
+  "version": "0.0.2",
+  "description": "Node-RED contributed (NRC) storage for Elasticsearch.",
+  "author": "Thorben Jändling (https://github.com/ThorbenJ/nrc-elasticsearch-storage)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThorbenJ/nrc-elasticsearch-storage.git"
+  },
+  "keywords": [
+    "node-red",
+    "elasticsearch"
+  ],
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@elastic/elasticsearch": ">=7.17.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ThorbenJ/nrc-elasticsearch-storage/issues"
+  },
+  "homepage": "https://github.com/ThorbenJ/nrc-elasticsearch-storage#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
