@@ -15,7 +15,7 @@ Then add the following to your settings file (inside the module.exports object):
 
 ```
     storageModule: require("nrc-elasticsearch-storage")({
-        nodes: <node urls),
+        nodes: <node urls>,
         index: <index name>,
         auth: <options>
     }),

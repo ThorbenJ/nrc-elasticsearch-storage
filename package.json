@@ -1,6 +1,6 @@
 {
   "name": "nrc-elasticsearch-storage",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node-RED contributed (NRC) storage for Elasticsearch.",
   "author": "Thorben Jändling (https://github.com/ThorbenJ/nrc-elasticsearch-storage)",
   "main": "index.js",
